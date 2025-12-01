@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <Authors>cosmicshuttle</Authors>
+    <Company>cosmicshuttle</Company>
+    <Product>AstraArchive</Product>
+    <Version>1.0.0</Version>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>66e9cf54-2ffc-4be3-9a2b-864ba39e22f0</UserSecretsId>
+  </PropertyGroup>
+
+</Project>
