@@ -44,3 +44,7 @@ yarn-error.log
 /publish/
 /dist/
 /out/
+
+## Db
+app.db
+app.db-*
